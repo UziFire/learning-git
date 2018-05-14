@@ -6,3 +6,4 @@ Git is a useful tool.
 Create a new branch is quich.
 This is a merged version of feature1 and master.
 test no ff mode for merge.
+deving.
